@@ -1,2 +1,2 @@
-# Letter_Game
-user vs pc lettter guessing game
+# Word-Guess-Game
+it's a game where you guess the word
