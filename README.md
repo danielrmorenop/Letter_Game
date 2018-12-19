@@ -1,2 +1,2 @@
 # Word-Guess-Game
-it's a game where you guess the word
+Try to guess which letter the computer is "thinking" of by pressing a key. Good Luck!
